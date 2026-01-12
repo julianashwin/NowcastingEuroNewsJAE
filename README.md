@@ -5,7 +5,7 @@ This repository is replication code for Ashwin, J., Kalamara, E., &amp; Saiz, L.
 A few variables in the datasets are unavailable as they include sensitive or proprietary data:
 * The raw news articles are extracted from Factiva, and so cannot be shared publicly. 
 * The PMI data is proprietary and so cannot be shared publicly. 
-* The ECB's internal projections are not sensitive and so cannot be shared publicly. 
+* The ECB's internal projections are sensitive and so cannot be shared publicly. 
 
 
 There are some example files that show how the sentiment metrics themselves are calculated in the sentiment_metrics folder. The main folder then includes six files:
